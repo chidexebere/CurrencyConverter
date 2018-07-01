@@ -64,7 +64,7 @@
 				
 				const oneUnit = data[query];
 				const amt = document.getElementById("homeValue").value;
-				document.getElementById("travelValue").value =  `${travelCurrency} ${(oneUnit*amt).toFixed(2)}`;
+				document.getElementById("travelValue").value =  ` ${(oneUnit*amt).toFixed(2)}`;
 				
 			})
 			.catch(() => {
