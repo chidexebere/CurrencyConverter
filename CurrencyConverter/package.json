@@ -1,0 +1,11 @@
+{
+  "name": "currency_converter_app",
+  "version": "1.0.0",
+  "description": "A Simple Currency Converter App that works offline",
+  "main": "final.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chidiebere Onyegbuchulem",
+  "license": "ISC"
+}
