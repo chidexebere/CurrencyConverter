@@ -68,7 +68,7 @@ form {
 
 input,
 select,
-button[type="submit"] {
+button[type="button"] {
   font-family: "Overpass", sans-serif;
   font-size: 1.45rem;
   line-height: 1;
@@ -84,7 +84,11 @@ select {
   margin: 0 10px 10px 0;
 }
 
-button[type="submit"] {
+#travelValue {
+  font-weight: bold;
+}
+
+button[type="button"] {
   font-size: 1.25rem;
   display: inline-flex;
   justify-content: center;
