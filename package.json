@@ -1,11 +1,19 @@
 {
-  "name": "currency_converter_app",
+  "name": "currency_converter",
   "version": "1.0.0",
   "description": "A Simple Currency Converter App that works offline",
   "main": "final.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chidexebere/CurrencyConverter.git"
+  },
   "author": "Chidiebere Onyegbuchulem",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chidexebere/CurrencyConverter/issues"
+  },
+  "homepage": "https://github.com/chidexebere/CurrencyConverter#readme"
 }
